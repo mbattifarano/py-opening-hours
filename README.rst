@@ -1,6 +1,9 @@
 Opening Hours
 =============
 
+.. image:: https://app.travis-ci.com/mbattifarano/py-opening-hours.svg?branch=main
+    :target: https://app.travis-ci.com/mbattifarano/py-opening-hours
+
 A python parser for `opening hours`_.
 
 
