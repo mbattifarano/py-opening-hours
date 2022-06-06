@@ -1,0 +1,2 @@
+class OpeningHoursError(Exception):
+    pass
